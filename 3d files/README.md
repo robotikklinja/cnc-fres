@@ -1,5 +1,7 @@
-3d filer for hele prosjektet. Disse filene skal alle ha en forklaring av hva de gjør og hvordan de lages. 
 
+#  3d filer for hele prosjektet. Disse filene skal alle ha en forklaring av hva de gjør og hvordan de lages. 
+
+##  Ztarget
 filnavn: Ztarget.stl
 
 Beskrivelse: Target for endestopper sensor på Z aksen 
