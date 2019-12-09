@@ -1,7 +1,7 @@
-"init" 
+"init"
 
 
-CNC hector
+# CNC hector
 
 Om prosjektet 
 Av jonathan 
