@@ -1,12 +1,14 @@
 
-#  3d filer for hele prosjektet. Disse filene skal alle ha en forklaring av hva de gjør og hvordan de lages. 
+#  3d filer for hele prosjektet.
+Disse filene skal alle ha en forklaring av hva de gjør og hvordan de lages. 
 
 ##  Ztarget
-filnavn: Ztarget.stl
 
-Beskrivelse: Target for endestopper sensor på Z aksen 
+|             |                                          |
+|-------------|------------------------------------------|
+| Filnavn     | Ztarget.stl                              |
+| Beskrivelse | Target for endestopper sensor på Z aksen |
+| Produksjon  | Skal printes i PLA med 15% infill        |
 
-Produksjon: skal printes i PLA med 15% infill.
-
- bilde: ![Z.target](C:\Users\jonath0310\Downloads\78949585_2457666737834735_2160639098467909632_n)
+Bilde: ![Z.target](C:\Users\jonath0310\Downloads\78949585_2457666737834735_2160639098467909632_n)
 
