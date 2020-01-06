@@ -1,6 +1,3 @@
-"init"
-
-
 # CNC hector
 
 Om prosjektet 
