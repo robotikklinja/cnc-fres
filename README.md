@@ -12,7 +12,7 @@ Det som robotikk linja skal gjøre på denne fresen er å videreutvikle fresen f
 Laste ned UGS for kontroll over fres, lastes ned [her](https://winder.github.io/ugs_website/download/). Velg 2.0 Platform
 
 ## UGS og Arduino
-For å få kontakt med arduinoen i UGS må du ha lastet ned arduino drivere for Pc-en. Den enkelste måten å gjøre dette på er å laste ned Arduino IDE.
+For å få kontakt med arduinoen i UGS må du ha lastet ned arduino drivere for Pc-en. Den enkelste måten å gjøre dette på er å laste ned Arduino IDE. Hahaha nei https://www.arduined.eu/ch340g-converter-windows-7-driver-download/
 
 ## Fixing the "missing java" problem with UGS
 If your computer suddenly claims that it can't find your Java installation you can help it by telling it where it is.
