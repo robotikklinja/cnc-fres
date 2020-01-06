@@ -8,3 +8,18 @@ Hva er det vi skal gjøre med fresen.
 Det som robotikk linja skal gjøre på denne fresen er å videreutvikle fresen for å støtte 6DOF. I tillegg til dette skal vi sette opp det elektriske med PSU for for stepper motorene, sjekke oppkoblingen av alle kabler og monteringen av endestopp sensorer. Du kan finne en komplett liste over arbeidsoppgaver som gjøres nedenfor.
 
 -Jonathan
+
+## Fixing the "missing java" problem with UGS
+If your computer suddenly claims that it can't find your Java installation you can help it by telling it where it is.
+* First install the latest [Java](https://www.java.com) version to be absolutely sure you actually have it.
+* Go to where the folder which contains the UGS program files, it's called ugsplatform. *It will be where you unpacked it, if you don't know where you put it, then it's probably in your downloads folder.* 
+* Open the ugsplatform/etc subfolder
+* Edit the ugsplatform.conf in your favorite text editor (notepad etc..)
+* Find the line starting with #jdkhome 
+* Replace it with this line: (remove the #)
+```
+ jdkhome="C:/Program Files (x86)/Java/jre1.8.0_221/"
+```
+* Double check that you have java in that folder, if it is somewhere else, adjust the path to fit.
+* UGS should now work
+* Do yourself a favour and create a desktop shortcut to the UGS start file **ugsplatform/bin/ugsplatform64.exe**
