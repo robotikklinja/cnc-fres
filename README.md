@@ -9,7 +9,7 @@ Det som robotikk linja skal gjøre på denne fresen er å videreutvikle fresen f
 
 -Jonathan
 
-Laste ned UGS for kontroll over fres, lastes ned [her](https://winder.github.io/ugs_website/download/) Velg 2.0 Platform
+Laste ned UGS for kontroll over fres, lastes ned. [her](https://winder.github.io/ugs_website/download/) Velg 2.0 Platform
 
 ## Fixing the "missing java" problem with UGS
 If your computer suddenly claims that it can't find your Java installation you can help it by telling it where it is.
