@@ -30,3 +30,17 @@ If your computer suddenly claims that it can't find your Java installation you c
 * Double check that you have java in that folder, if it is somewhere else, adjust the path to fit.
 * UGS should now work
 * Do yourself a favour and create a desktop shortcut to the UGS start file **ugsplatform/bin/ugsplatform64.exe**
+
+## To do list
+
+| Hva må gjøres | Utført |Utført av hvem| kommentar |
+|---------------|--------|--------------|-----------|
+| Fikse sensor signal |		|	| 	|
+| Kjøre setup wizard |		|	|	|
+| Lage kretstegninger |		|	|	|
+| Modelere ny boks til Arduino Nano|	|	|	|
+| Legge til 2 nye akser|	|	|	|
+| Bygge kabinett for tavle|	|	|	|
+| Bestille pc, tastatur og lignende |		|	| |
+
+
