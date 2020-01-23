@@ -35,7 +35,7 @@ If your computer suddenly claims that it can't find your Java installation you c
 
 | Hva må gjøres | Utført |Utført av hvem| kommentar |
 |---------------|--------|--------------|-----------|
-| Fikse sensor signal |		|	| 	|
+| Fikse sensor signal |	X	|Eivind og Ludvic	| 	|
 | Kjøre setup wizard |		|	|	|
 | Lage kretstegninger |		|	|	|
 | Modelere ny boks til Arduino Nano|	|	|	|
