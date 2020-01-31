@@ -42,5 +42,7 @@ If your computer suddenly claims that it can't find your Java installation you c
 | Legge til 2 nye akser|	|	|	|
 | Bygge kabinett for tavle|	|	|	|
 | Bestille pc, tastatur og lignende |		|	| |
+| Gjøre ferdig oppkoblingen av sensorkabler | | | |
+
 
 
