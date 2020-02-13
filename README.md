@@ -4,8 +4,10 @@
 
 Prosjektet er sentrert rundt utviklingen, oppbyggingen og oppgradering av den semi portable CNC fresen Hector. Hector er en CNC fres utviklet av Fabricatable Machines(FB) gruppen som består av norske utviklere og automatikere. Blant disse er Jacob Nilsson. Det spesielle med maskinene til FB er at alle delene skal kunne produseres med en tre akse CNC fres. Dette gir deg muligheten til å oppgradere og videreutvikle fresen med minimalt med remodellering. 
 
-Hva er det vi skal gjøre med fresen.
+Hva er det vi skal gjøre med fresen?
 Det som robotikk linja skal gjøre på denne fresen er å videreutvikle fresen for å støtte 6DOF. I tillegg til dette skal vi sette opp det elektriske med PSU for for stepper motorene, sjekke oppkoblingen av alle kabler og monteringen av endestopp sensorer. Du kan finne en komplett liste over arbeidsoppgaver som gjøres nedenfor.
+
+Det som står igjen å gjøres kan man finne under "Projects" -> "Jakob sin TODO liste". Her står det også hva som er gjort ferdig og hva som er i gang.
 
 -Jonathan
 
@@ -30,19 +32,6 @@ If your computer suddenly claims that it can't find your Java installation you c
 * Double check that you have java in that folder, if it is somewhere else, adjust the path to fit.
 * UGS should now work
 * Do yourself a favour and create a desktop shortcut to the UGS start file **ugsplatform/bin/ugsplatform64.exe**
-
-## To do list
-
-| Hva må gjøres | Utført |Utført av hvem| kommentar |
-|---------------|--------|--------------|-----------|
-| Fikse sensor signal |	X	|Eivind og Ludvic	| 	|
-| Kjøre setup wizard |		|	|	|
-| Lage kretstegninger |		|	|	|
-| Modelere ny boks til Arduino Nano|	|	|	|
-| Legge til 2 nye akser|	|	|	|
-| Bygge kabinett for tavle|	|	|	|
-| Bestille pc, tastatur og lignende |		|	| |
-| Gjøre ferdig oppkoblingen av sensorkabler | | | |
 
 
 
